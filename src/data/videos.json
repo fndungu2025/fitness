@@ -1,0 +1,490 @@
+[
+  {
+    "id": "sample-01",
+    "placeholder": true,
+    "title": "Low-impact glute bridges and side steps",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "strength",
+    "focus": [
+      "glutes"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 12,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Keep feet hip-width and press through your heels.",
+      "Make the bridge smaller if your lower back feels it."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-02",
+    "placeholder": true,
+    "title": "Glute strength with resistance bands",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "glutes",
+      "legs"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 20,
+    "equipment": [
+      "bands"
+    ],
+    "tips": [
+      "Use a lighter band or no band to start.",
+      "Pause for a second at the top of each rep."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-03",
+    "placeholder": true,
+    "title": "Standing core: no floor work needed",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "strength",
+    "focus": [
+      "core"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 10,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Hold a wall or counter for balance if needed.",
+      "Breathe out as you brace."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-04",
+    "placeholder": true,
+    "title": "Pilates core sequence",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "pilates",
+    "focus": [
+      "core",
+      "back"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 25,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Keep your head down if your neck strains.",
+      "Bend knees to shorten the lever on leg moves."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-05",
+    "placeholder": true,
+    "title": "Fast HIIT core blast",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "adult-18-39"
+    ],
+    "sizeBands": [
+      "strength-focus"
+    ],
+    "type": "cardio-hiit",
+    "focus": [
+      "core",
+      "full-body"
+    ],
+    "intensity": "intense",
+    "impact": "high",
+    "minutes": 15,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Swap jumps for step-outs to make it low impact.",
+      "Rest whenever you need to."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-06",
+    "placeholder": true,
+    "title": "Leg day with dumbbells",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "legs",
+      "glutes"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 30,
+    "equipment": [
+      "dumbbells"
+    ],
+    "tips": [
+      "Start with no weights to learn the movement.",
+      "Keep knees tracking over your toes."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-07",
+    "placeholder": true,
+    "title": "Seated leg strength",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "strength",
+    "focus": [
+      "legs"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 15,
+    "equipment": [
+      "chair"
+    ],
+    "tips": [
+      "Use a sturdy chair without wheels.",
+      "Move slowly and keep your back supported."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-08",
+    "placeholder": true,
+    "title": "Toned arms with light dumbbells",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "arms"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 12,
+    "equipment": [
+      "dumbbells"
+    ],
+    "tips": [
+      "Water bottles work as light weights.",
+      "Keep elbows close to your sides on curls."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-09",
+    "placeholder": true,
+    "title": "Chair arm and shoulder routine",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "strength",
+    "focus": [
+      "arms",
+      "back"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 10,
+    "equipment": [
+      "chair"
+    ],
+    "tips": [
+      "Lower your arms if your shoulders pinch.",
+      "Sit tall with feet flat on the floor."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-10",
+    "placeholder": true,
+    "title": "Posture reset: back and shoulders",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "mobility",
+    "focus": [
+      "back"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 8,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Move within a pain-free range.",
+      "Great as a desk break."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-11",
+    "placeholder": true,
+    "title": "Gentle morning yoga flow",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "yoga",
+    "focus": [
+      "full-body",
+      "back"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 20,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Use a cushion under knees or hips.",
+      "Skip any pose that feels wrong today."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-12",
+    "placeholder": true,
+    "title": "Indoor walking workout",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "walking",
+    "focus": [
+      "full-body",
+      "legs"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 30,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "March in place instead of stepping side to side.",
+      "Keep a pace where you can still talk."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-13",
+    "placeholder": true,
+    "title": "Dance cardio party",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "dance",
+    "focus": [
+      "full-body"
+    ],
+    "intensity": "moderate",
+    "impact": "high",
+    "minutes": 25,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Keep feet on the floor for a low-impact version.",
+      "Follow the rhythm, not the exact moves."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-14",
+    "placeholder": true,
+    "title": "Full-body strength circuit",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "full-body"
+    ],
+    "intensity": "intense",
+    "impact": "low",
+    "minutes": 45,
+    "equipment": [
+      "dumbbells"
+    ],
+    "tips": [
+      "Drop to one round if you are new to this.",
+      "Choose a weight you can lift 10 times with good form."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-15",
+    "placeholder": true,
+    "title": "Balance and stability for older adults",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "mobility",
+    "focus": [
+      "legs",
+      "core"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 15,
+    "equipment": [
+      "chair"
+    ],
+    "tips": [
+      "Stand next to a chair and hold it the whole time if needed.",
+      "Clear the floor around you first."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sample-16",
+    "placeholder": true,
+    "title": "Hip and hamstring stretch",
+    "channel": "Sample entry – replace with a reviewed video",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "mobility",
+    "focus": [
+      "legs",
+      "glutes"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 9,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Never bounce in a stretch.",
+      "Hold each stretch for 20–30 seconds."
+    ],
+    "reviewed": null
+  }
+]

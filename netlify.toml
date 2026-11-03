@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Edge function netlify/edge-functions/video-stats.js serves /api/video-stats
+# (route declared in the function's own config). It reads the YouTube API key
+# from the YOUTUBE_API_KEY environment variable set in the Netlify UI; the key
+# never appears in this repo or in browser code.
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Content-Type-Options = "nosniff"

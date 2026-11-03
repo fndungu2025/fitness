@@ -1,0 +1,34 @@
+{
+  "name": "fitness",
+  "version": "1.0.0",
+  "description": "Fitness Workout Classifier: find classified YouTube workout videos by age, size band and body focus.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "find-candidates": "node scripts/find-candidates.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fndungu2025/fitness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fndungu2025/fitness/issues"
+  },
+  "homepage": "https://github.com/fndungu2025/fitness#readme",
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.2.1",
+    "vite": "^8.3.5",
+    "vitest": "^5.1.0"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
