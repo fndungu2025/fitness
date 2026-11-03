@@ -36,7 +36,9 @@ User choices, filters and favorites are stored in the browser's localStorage onl
 
 ## Adding real videos
 
-The library currently holds **16 sample entries** (`"placeholder": true`) so every screen works. Before launch, replace them with videos a person has watched and tagged:
+The library currently holds **26 real YouTube videos** from channels such as Yoga With Adriene, Walk at Home, HASfit, MadFit, Michelle Kenway (physio), Move With Nicole and Pamela Reif. Their ids were confirmed as live YouTube pages via web search, and their tags come from each video's title and description. Every one has `"reviewed": null`, and the video page shows a "Pending review" note until someone watches it, corrects the tags if needed, and sets `"reviewed"` to the date. Some entries have `"channel": null`; the live edge function fills in the channel once the site is deployed with the API key.
+
+To add more, use the finder script:
 
 ```bash
 cp .env.example .env    # then put your key in .env (git-ignored)
@@ -61,6 +63,6 @@ Launch target from the PRD: 150+ reviewed videos, at least 10 per focus area.
 
 ## Before launch
 
-- Replace the sample videos (above).
+- Watch each video, correct its tags and set `"reviewed"` (above).
 - Set the real feedback address in `src/components/VideoPage.jsx` (`REPORT_EMAIL`).
 - Rotate the YouTube API key if it was ever shared in a chat or file, and restrict it to the YouTube Data API v3.

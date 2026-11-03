@@ -69,6 +69,13 @@ export default function VideoPage({ video, profile, favorites, toggleFavorite, s
 
       <IntensityBadges video={video} />
 
+      {!video.placeholder && !video.reviewed && (
+        <p className="note small">
+          <strong>Pending review.</strong> These tags were assigned from the video's title and description. A
+          reviewer hasn't watched it all the way through yet, so check the intensity for yourself.
+        </p>
+      )}
+
       <dl className="tags">
         <div><dt>Type</dt><dd>{labelOf(WORKOUT_TYPES, video.type)}</dd></div>
         <div><dt>Focus</dt><dd>{video.focus.map((f) => labelOf(FOCUS_AREAS, f)).join(', ')}</dd></div>

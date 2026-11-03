@@ -1,9 +1,197 @@
 [
   {
-    "id": "sample-01",
-    "placeholder": true,
-    "title": "Low-impact glute bridges and side steps",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "v7AYKMP6rOE",
+    "title": "Yoga For Complete Beginners - 20 Minute Home Yoga Workout!",
+    "channel": "Yoga With Adriene",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "yoga",
+    "focus": [
+      "full-body"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 24,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Use a cushion or folded blanket under knees and hips.",
+      "Skip any pose that pinches; rest in a comfortable seat."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "Ho9em79_0qg",
+    "title": "Yoga For Hips & Lower Back Release",
+    "channel": "Yoga With Adriene",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "yoga",
+    "focus": [
+      "back",
+      "glutes"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 23,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Use a cushion or folded blanket under knees and hips.",
+      "Skip any pose that pinches; rest in a comfortable seat."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "2IcWJobNDck",
+    "title": "Morning Mobility Yoga | Wake Up and Stretch!",
+    "channel": "Yoga With Adriene",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "mobility",
+    "focus": [
+      "full-body",
+      "back"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 22,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Move within a pain-free range and never bounce.",
+      "Breathe slowly; this one works well as a desk break."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "TMDX7hdQKSY",
+    "title": "Physio Upper Back Stretch & Relieve Desk Break Routine",
+    "channel": "Michelle Kenway",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "mobility",
+    "focus": [
+      "back"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 6,
+    "equipment": [
+      "chair"
+    ],
+    "tips": [
+      "Move within a pain-free range and never bounce.",
+      "Breathe slowly; this one works well as a desk break."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "LcyZT6_AjJI",
+    "title": "Physio Guided Posture Correction Stretches Routine for Beginners - 15 mins",
+    "channel": "Michelle Kenway",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "mobility",
+    "focus": [
+      "back"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 15,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Move within a pain-free range and never bounce.",
+      "Breathe slowly; this one works well as a desk break."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "X3q5e1pV4pc",
+    "title": "1.0 Mile Happy Walk | Walk at Home",
+    "channel": "Walk at Home",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "walking",
+    "focus": [
+      "full-body",
+      "legs"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 15,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "March in place instead of stepping out to make it quieter.",
+      "Keep a pace where you can still talk."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "k_SoCdUlBvM",
+    "title": "Beginner 1 Mile Walk | Walk at Home",
+    "channel": "Walk at Home",
     "ageGroups": [
       "teen-13-17",
       "adult-18-39",
@@ -13,6 +201,185 @@
     "sizeBands": [
       "comfort",
       "standard"
+    ],
+    "type": "walking",
+    "focus": [
+      "full-body",
+      "legs"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 15,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "March in place instead of stepping out to make it quieter.",
+      "Keep a pace where you can still talk."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "-SSYX8sIOmM",
+    "title": "20 Minute Walk at Home Exercise",
+    "channel": "Walk at Home",
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "walking",
+    "focus": [
+      "full-body",
+      "legs"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 20,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "March in place instead of stepping out to make it quieter.",
+      "Keep a pace where you can still talk."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "LHx3eP93Zrg",
+    "title": "30 Min Exercise for Seniors - Seated Chair Exercise Senior Workout Routine",
+    "channel": "HASfit",
+    "ageGroups": [
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "strength",
+    "focus": [
+      "full-body",
+      "legs"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 34,
+    "equipment": [
+      "chair"
+    ],
+    "tips": [
+      "Use a sturdy chair without wheels, back against a wall.",
+      "Sit tall with feet flat; go smaller if anything aches."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "sSnWkSh-9K0",
+    "title": "Seated Strength Training Exercises! Arms & Abs // Chair Workout for Seniors & Beginners",
+    "channel": "SeniorShape Fitness",
+    "ageGroups": [
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "strength",
+    "focus": [
+      "arms",
+      "core"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 25,
+    "equipment": [
+      "chair"
+    ],
+    "tips": [
+      "Use a sturdy chair without wheels, back against a wall.",
+      "Sit tall with feet flat; go smaller if anything aches."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "za4nbGWV-jE",
+    "title": "Stay Active & Strong | 10-Minute Chair Workout For Older Adults",
+    "channel": "ElderFit TV",
+    "ageGroups": [
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard"
+    ],
+    "type": "strength",
+    "focus": [
+      "full-body"
+    ],
+    "intensity": "gentle",
+    "impact": "low",
+    "minutes": 10,
+    "equipment": [
+      "chair"
+    ],
+    "tips": [
+      "Use a sturdy chair without wheels, back against a wall.",
+      "Sit tall with feet flat; go smaller if anything aches."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "p-uUnrCdhR8",
+    "title": "15 MIN BOOTY WORKOUT, LOW IMPACT - knee friendly, no squats",
+    "channel": null,
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "glutes"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 15,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Press through your heels and keep your lower back neutral.",
+      "Make each move smaller or slower if your knees complain."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "5jRjsuRbs60",
+    "title": "15 MIN BEGINNER BOOTY WORKOUT (Low Impact, No Squats)",
+    "channel": null,
+    "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59",
+      "senior-60"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
     ],
     "type": "strength",
     "focus": [
@@ -20,141 +387,20 @@
     ],
     "intensity": "gentle",
     "impact": "low",
-    "minutes": 12,
-    "equipment": [
-      "none"
-    ],
-    "tips": [
-      "Keep feet hip-width and press through your heels.",
-      "Make the bridge smaller if your lower back feels it."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-02",
-    "placeholder": true,
-    "title": "Glute strength with resistance bands",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "adult-18-39",
-      "adult-40-59"
-    ],
-    "sizeBands": [
-      "standard",
-      "strength-focus"
-    ],
-    "type": "strength",
-    "focus": [
-      "glutes",
-      "legs"
-    ],
-    "intensity": "moderate",
-    "impact": "low",
-    "minutes": 20,
-    "equipment": [
-      "bands"
-    ],
-    "tips": [
-      "Use a lighter band or no band to start.",
-      "Pause for a second at the top of each rep."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-03",
-    "placeholder": true,
-    "title": "Standing core: no floor work needed",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "teen-13-17",
-      "adult-18-39",
-      "adult-40-59",
-      "senior-60"
-    ],
-    "sizeBands": [
-      "comfort",
-      "standard"
-    ],
-    "type": "strength",
-    "focus": [
-      "core"
-    ],
-    "intensity": "gentle",
-    "impact": "low",
-    "minutes": 10,
-    "equipment": [
-      "none"
-    ],
-    "tips": [
-      "Hold a wall or counter for balance if needed.",
-      "Breathe out as you brace."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-04",
-    "placeholder": true,
-    "title": "Pilates core sequence",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "adult-18-39",
-      "adult-40-59",
-      "senior-60"
-    ],
-    "sizeBands": [
-      "standard",
-      "strength-focus"
-    ],
-    "type": "pilates",
-    "focus": [
-      "core",
-      "back"
-    ],
-    "intensity": "moderate",
-    "impact": "low",
-    "minutes": 25,
-    "equipment": [
-      "none"
-    ],
-    "tips": [
-      "Keep your head down if your neck strains.",
-      "Bend knees to shorten the lever on leg moves."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-05",
-    "placeholder": true,
-    "title": "Fast HIIT core blast",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "adult-18-39"
-    ],
-    "sizeBands": [
-      "strength-focus"
-    ],
-    "type": "cardio-hiit",
-    "focus": [
-      "core",
-      "full-body"
-    ],
-    "intensity": "intense",
-    "impact": "high",
     "minutes": 15,
     "equipment": [
       "none"
     ],
     "tips": [
-      "Swap jumps for step-outs to make it low impact.",
-      "Rest whenever you need to."
+      "Press through your heels and keep your lower back neutral.",
+      "Make each move smaller or slower if your knees complain."
     ],
     "reviewed": null
   },
   {
-    "id": "sample-06",
-    "placeholder": true,
-    "title": "Leg day with dumbbells",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "zDvAZHO4svI",
+    "title": "20 min HIPS, LEGS & GLUTES No Equipment Workout",
+    "channel": null,
     "ageGroups": [
       "adult-18-39",
       "adult-40-59"
@@ -170,50 +416,107 @@
     ],
     "intensity": "moderate",
     "impact": "low",
-    "minutes": 30,
+    "minutes": 20,
     "equipment": [
-      "dumbbells"
+      "none"
     ],
     "tips": [
-      "Start with no weights to learn the movement.",
-      "Keep knees tracking over your toes."
+      "Press through your heels and keep your lower back neutral.",
+      "Make each move smaller or slower if your knees complain."
     ],
     "reviewed": null
   },
   {
-    "id": "sample-07",
-    "placeholder": true,
-    "title": "Seated leg strength",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "1f8yoFFdkcY",
+    "title": "10 MIN BEGINNER AB WORKOUT // No Equipment",
+    "channel": "Pamela Reif",
     "ageGroups": [
+      "teen-13-17",
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "core"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 10,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Keep your head down if your neck strains.",
+      "Bend your knees to make leg moves easier."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "Cnmy08JgakM",
+    "title": "15 MIN TOTAL CORE/AB WORKOUT (No Equipment, No Repeats)",
+    "channel": "MadFit",
+    "ageGroups": [
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "core"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 15,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Keep your head down if your neck strains.",
+      "Bend your knees to make leg moves easier."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "KVt_uBX-XQw",
+    "title": "10 min STANDING ABS WORKOUT | One Dumbbell | Low Impact | Beginner Friendly",
+    "channel": "fitbymik",
+    "ageGroups": [
+      "adult-18-39",
       "adult-40-59",
       "senior-60"
     ],
     "sizeBands": [
       "comfort",
-      "standard"
+      "standard",
+      "strength-focus"
     ],
     "type": "strength",
     "focus": [
-      "legs"
+      "core"
     ],
     "intensity": "gentle",
     "impact": "low",
-    "minutes": 15,
+    "minutes": 10,
     "equipment": [
-      "chair"
+      "dumbbells"
     ],
     "tips": [
-      "Use a sturdy chair without wheels.",
-      "Move slowly and keep your back supported."
+      "Keep your head down if your neck strains.",
+      "Bend your knees to make leg moves easier."
     ],
     "reviewed": null
   },
   {
-    "id": "sample-08",
-    "placeholder": true,
-    "title": "Toned arms with light dumbbells",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "9bJ8o8peiKY",
+    "title": "10 MIN STANDING ARM WORKOUT - No Repeat with Dumbbells",
+    "channel": "MadFit",
     "ageGroups": [
       "teen-13-17",
       "adult-18-39",
@@ -230,51 +533,162 @@
     ],
     "intensity": "moderate",
     "impact": "low",
-    "minutes": 12,
+    "minutes": 10,
     "equipment": [
       "dumbbells"
     ],
     "tips": [
       "Water bottles work as light weights.",
-      "Keep elbows close to your sides on curls."
+      "Lower the weight if your shoulders shrug up."
     ],
     "reviewed": null
   },
   {
-    "id": "sample-09",
-    "placeholder": true,
-    "title": "Chair arm and shoulder routine",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "onLTHQ1KE50",
+    "title": "10 min STANDING ARM WORKOUT | With Dumbbells | Biceps, Triceps and Shoulders",
+    "channel": "fitbymik",
     "ageGroups": [
+      "adult-18-39",
       "adult-40-59",
       "senior-60"
     ],
     "sizeBands": [
       "comfort",
-      "standard"
+      "standard",
+      "strength-focus"
     ],
     "type": "strength",
     "focus": [
-      "arms",
-      "back"
+      "arms"
     ],
-    "intensity": "gentle",
+    "intensity": "moderate",
     "impact": "low",
-    "minutes": 10,
+    "minutes": 11,
     "equipment": [
-      "chair"
+      "dumbbells"
     ],
     "tips": [
-      "Lower your arms if your shoulders pinch.",
-      "Sit tall with feet flat on the floor."
+      "Water bottles work as light weights.",
+      "Lower the weight if your shoulders shrug up."
     ],
     "reviewed": null
   },
   {
-    "id": "sample-10",
-    "placeholder": true,
-    "title": "Posture reset: back and shoulders",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "A2iooNhyKD4",
+    "title": "20 Min Strength Training at Home Full Body Dumbbell Workout",
+    "channel": "HASfit",
+    "ageGroups": [
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "strength",
+    "focus": [
+      "full-body"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 27,
+    "equipment": [
+      "dumbbells"
+    ],
+    "tips": [
+      "Start with light weights to learn the movement.",
+      "Choose a weight you can lift 10 times with good form."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "HhdYlniTjvg",
+    "title": "20 MIN FULL BODY HIIT - All Standing, No Repeats, No Equipment",
+    "channel": null,
+    "ageGroups": [
+      "adult-18-39"
+    ],
+    "sizeBands": [
+      "standard",
+      "strength-focus"
+    ],
+    "type": "cardio-hiit",
+    "focus": [
+      "full-body"
+    ],
+    "intensity": "intense",
+    "impact": "high",
+    "minutes": 20,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Swap jumps for step-outs to make it low impact.",
+      "Take longer rests whenever you need them."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "aB85Y6GA5NA",
+    "title": "20 MIN CARDIO HIIT WORKOUT | No Equipment, Full Body",
+    "channel": null,
+    "ageGroups": [
+      "adult-18-39"
+    ],
+    "sizeBands": [
+      "strength-focus"
+    ],
+    "type": "cardio-hiit",
+    "focus": [
+      "full-body",
+      "core"
+    ],
+    "intensity": "intense",
+    "impact": "high",
+    "minutes": 20,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Swap jumps for step-outs to make it low impact.",
+      "Take longer rests whenever you need them."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "gDfK9zf76AY",
+    "title": "20 MIN MORNING PILATES || Full Body Workout",
+    "channel": "Move With Nicole",
+    "ageGroups": [
+      "adult-18-39",
+      "adult-40-59"
+    ],
+    "sizeBands": [
+      "comfort",
+      "standard",
+      "strength-focus"
+    ],
+    "type": "pilates",
+    "focus": [
+      "core",
+      "full-body"
+    ],
+    "intensity": "moderate",
+    "impact": "low",
+    "minutes": 21,
+    "equipment": [
+      "none"
+    ],
+    "tips": [
+      "Keep your head down if your neck strains.",
+      "Smaller range with control beats bigger range."
+    ],
+    "reviewed": null
+  },
+  {
+    "id": "SPEBWOFleOI",
+    "title": "20 Min. Pilates for Beginners | Full Body Workout for everyday (No Equipment)",
+    "channel": "Mady Morrison",
     "ageGroups": [
       "teen-13-17",
       "adult-18-39",
@@ -286,41 +700,10 @@
       "standard",
       "strength-focus"
     ],
-    "type": "mobility",
+    "type": "pilates",
     "focus": [
-      "back"
-    ],
-    "intensity": "gentle",
-    "impact": "low",
-    "minutes": 8,
-    "equipment": [
-      "none"
-    ],
-    "tips": [
-      "Move within a pain-free range.",
-      "Great as a desk break."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-11",
-    "placeholder": true,
-    "title": "Gentle morning yoga flow",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "teen-13-17",
-      "adult-18-39",
-      "adult-40-59",
-      "senior-60"
-    ],
-    "sizeBands": [
-      "comfort",
-      "standard"
-    ],
-    "type": "yoga",
-    "focus": [
-      "full-body",
-      "back"
+      "core",
+      "full-body"
     ],
     "intensity": "gentle",
     "impact": "low",
@@ -329,16 +712,15 @@
       "none"
     ],
     "tips": [
-      "Use a cushion under knees or hips.",
-      "Skip any pose that feels wrong today."
+      "Keep your head down if your neck strains.",
+      "Smaller range with control beats bigger range."
     ],
     "reviewed": null
   },
   {
-    "id": "sample-12",
-    "placeholder": true,
-    "title": "Indoor walking workout",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "kJPZyGhdOqo",
+    "title": "10 Minute Dance Workout for Non-Dancers | Low Impact Cardio",
+    "channel": "Lucy Wyndham-Read",
     "ageGroups": [
       "teen-13-17",
       "adult-18-39",
@@ -347,36 +729,37 @@
     ],
     "sizeBands": [
       "comfort",
-      "standard"
+      "standard",
+      "strength-focus"
     ],
-    "type": "walking",
+    "type": "dance",
     "focus": [
-      "full-body",
-      "legs"
+      "full-body"
     ],
-    "intensity": "moderate",
+    "intensity": "gentle",
     "impact": "low",
-    "minutes": 30,
+    "minutes": 10,
     "equipment": [
       "none"
     ],
     "tips": [
-      "March in place instead of stepping side to side.",
-      "Keep a pace where you can still talk."
+      "Follow the rhythm, not the exact steps.",
+      "Keep one foot on the floor for a low-impact version."
     ],
     "reviewed": null
   },
   {
-    "id": "sample-13",
-    "placeholder": true,
-    "title": "Dance cardio party",
-    "channel": "Sample entry – replace with a reviewed video",
+    "id": "NaAakg4ASJg",
+    "title": "18 MIN 80s HITS DANCE WORKOUT • Low Impact Cardio",
+    "channel": null,
     "ageGroups": [
       "teen-13-17",
       "adult-18-39",
-      "adult-40-59"
+      "adult-40-59",
+      "senior-60"
     ],
     "sizeBands": [
+      "comfort",
       "standard",
       "strength-focus"
     ],
@@ -385,105 +768,14 @@
       "full-body"
     ],
     "intensity": "moderate",
-    "impact": "high",
-    "minutes": 25,
+    "impact": "low",
+    "minutes": 18,
     "equipment": [
       "none"
     ],
     "tips": [
-      "Keep feet on the floor for a low-impact version.",
-      "Follow the rhythm, not the exact moves."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-14",
-    "placeholder": true,
-    "title": "Full-body strength circuit",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "adult-18-39",
-      "adult-40-59"
-    ],
-    "sizeBands": [
-      "standard",
-      "strength-focus"
-    ],
-    "type": "strength",
-    "focus": [
-      "full-body"
-    ],
-    "intensity": "intense",
-    "impact": "low",
-    "minutes": 45,
-    "equipment": [
-      "dumbbells"
-    ],
-    "tips": [
-      "Drop to one round if you are new to this.",
-      "Choose a weight you can lift 10 times with good form."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-15",
-    "placeholder": true,
-    "title": "Balance and stability for older adults",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "senior-60"
-    ],
-    "sizeBands": [
-      "comfort",
-      "standard"
-    ],
-    "type": "mobility",
-    "focus": [
-      "legs",
-      "core"
-    ],
-    "intensity": "gentle",
-    "impact": "low",
-    "minutes": 15,
-    "equipment": [
-      "chair"
-    ],
-    "tips": [
-      "Stand next to a chair and hold it the whole time if needed.",
-      "Clear the floor around you first."
-    ],
-    "reviewed": null
-  },
-  {
-    "id": "sample-16",
-    "placeholder": true,
-    "title": "Hip and hamstring stretch",
-    "channel": "Sample entry – replace with a reviewed video",
-    "ageGroups": [
-      "teen-13-17",
-      "adult-18-39",
-      "adult-40-59",
-      "senior-60"
-    ],
-    "sizeBands": [
-      "comfort",
-      "standard",
-      "strength-focus"
-    ],
-    "type": "mobility",
-    "focus": [
-      "legs",
-      "glutes"
-    ],
-    "intensity": "gentle",
-    "impact": "low",
-    "minutes": 9,
-    "equipment": [
-      "none"
-    ],
-    "tips": [
-      "Never bounce in a stretch.",
-      "Hold each stretch for 20–30 seconds."
+      "Follow the rhythm, not the exact steps.",
+      "Keep one foot on the floor for a low-impact version."
     ],
     "reviewed": null
   }
